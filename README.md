@@ -1,2 +1,1 @@
-This package consist from projects build by my self in which I used a Maven, Hibernate, JSP, Java, MySql technologies for desktop and web site versions.
-Projects had a education character and "know how" for the future projects. On this basics was built another's projects with an approach, e.g. ORM or witch maven
+This package consist of my projects in which I used Maven, Hibernate, JSP, Java, MySql technologies for desktop and websites. The projects had an educational character and constitute ‚know how’ for the future projects. Based on these, new projects are built that also include the ORM or Maven approach. 
